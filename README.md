@@ -7,7 +7,7 @@ I am Liliia Aliakberova.
 
 - 🔭 I’m currently working on projects and labs included into my Master degree programme
 - 🌱 I’m currently learning Big Data Management and Analytics within the framework of the Erasmus Mundus programme
-- 💬 Ask me about Business Analytics and Digital Transfrmation
+- 💬 Ask me about Business Analytics and Digital Transformation
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liliia-aliakberova-85950319a/)
 - 😄 Pronouns: Lily
 
